@@ -1,0 +1,39 @@
+body { 
+    margin: 50px;
+    background: rgba(0, 0, 0, 0.9);
+    color: rgb(148, 148, 148);
+}
+
+.titulo{
+    font-size: 90px;
+    text-align: center;
+    font-family: 'Acme', sans-serif;  
+}
+
+.historia, .ultimo, .integrantes{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Acme', sans-serif;
+}
+
+.começo, .formação, .iommy, .sabbath{
+    font-family: 'Sarabun', sans-serif;
+}
+
+.div{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Sarabun', sans-serif;
+    font-size: 30px;
+}
+
+.p2{
+    font-family: 'Acme', sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+
+
+
